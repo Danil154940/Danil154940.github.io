@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    background-color: #1F2833;
+}
+header{
+    background-color: #100C08;
+}
+footer{
+    background-color: #070707;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 30px;
+}
+header h1{
+    color: #00CAD9;
+    display: inline-block;
+}
+main{
+    color:#00CAD9;
+    
+}
+.post{
+    font-size: 20px;
+    text-align: center;
+    display: inline-block;
+    padding: 2% 20%;
+    
+}
+.foto{
+    position: absolute;
+    height: 380px;
+    width: 50%;
+    border-radius: 20px;
+}
+.vetka p{
+    font-size:25px;
+    height: 324px;
+    width:  550px;
+    display: inline-block;
+    padding: 10px;
+}
+.fotos{
+    position: absolute;
+    height: 340px;
+    border-radius: 20px;
+    margin-top: 20px;
+}
+.vetkas p{
+    display: inline-block;
+    font-size:25px;
+    height: 300px;
+    width: 450px;
+    padding: 20px;
+}
+.info{
+    font-size: 20px;
+    display: inline-block;
+    text-align: center;
+}
